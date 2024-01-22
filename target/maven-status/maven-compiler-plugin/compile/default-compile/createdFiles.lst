@@ -1,0 +1,5 @@
+com\aula2\alantodolist\repository\TaskRepository.class
+com\aula2\alantodolist\AlanTodolistApplication.class
+com\aula2\alantodolist\model\Task.class
+com\aula2\alantodolist\Controller\TaskController.class
+com\aula2\alantodolist\service\Taskservice.class
